@@ -1,0 +1,12 @@
+[project]
+name = "learning-to-concatenate"
+version = "0.1.0"
+description = "Learning to Concatenate Quantum Codes"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pennylane==0.43.0",
+    "torch==2.9.0",
+    "openqasm3[parser]==1.0.1",
+    "gast==0.7.0"
+]
