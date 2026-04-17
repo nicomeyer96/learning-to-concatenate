@@ -5,7 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-VarQEC-blue)
 ](https://github.com/nicomeyer96/varqec)
 
-This repo contains the code for the paper ["Learning to Concatenate Quantum Codes", N. Meyer et al., arXiv:2604.14931, 2026](https://arxiv.org/search/quant-ph?query=Meyer%2C+Nico&searchtype=author&abstracts=show&order=-announced_date_first&size=50](https://arxiv.org/abs/2604.14931v1).
+This repo contains the code for the paper ["Learning to Concatenate Quantum Codes", N. Meyer et al., arXiv:2604.14931, 2026](https://arxiv.org/abs/2604.14931v1).
 
 > Concatenating quantum error correction codes scales error correction capability by driving logical error rates down double-exponentially across levels.
 > However, the noise structure shifts under concatenation, making it hard to choose an optimal code sequence. We automate this choice by estimating the
